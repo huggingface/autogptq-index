@@ -1,0 +1,1 @@
+Hosted wheels for AutoGPTQ for [cuda build](https://github.com/PanQiWei/AutoGPTQ/actions/workflows/build_wheels_cuda.yml) and [rocm build](https://github.com/PanQiWei/AutoGPTQ/actions/workflows/build_wheels_rocm.yml).
